@@ -1,12 +1,11 @@
+#...
 
-```
 name = "bitunix-full-agentic"
 compatibility_date = "2026-11-04"
 
 [assets]
 directory = "./dist"
 
-```
 
 # ...
 [observability.logs]
